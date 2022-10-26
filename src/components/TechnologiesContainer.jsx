@@ -19,7 +19,7 @@ const technologies = [
   { id: "react", name: "React", icon: <DiReact /> },
   { id: "node", name: "Node.js", icon: <DiNodejsSmall /> },
   { id: "postgreSql", name: "PostgreSql", icon: <DiPostgresql /> },
-  { id: "MongoDb", name: "MongoDb", icon: <DiMongodb /> },
+  { id: "mongoDb", name: "MongoDb", icon: <DiMongodb /> },
 ];
 
 function TechnologiesContainer() {
